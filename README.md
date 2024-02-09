@@ -63,46 +63,9 @@ So far, I'm not really sure if there are any bugs. However, there might be some 
 </details>
 
 <details>
-<summary><h3> 📸 - Demo Images </h3></summary>
-
-#
-
-![Screenshot 2023-12-28 at 11 45 11](https://github.com/mirayatech/Chatify/assets/71933266/06f67da2-8a3b-480e-8dbb-9d9e69919329)
-
-#
-
-![Screenshot 2023-12-28 at 11 45 53](https://github.com/mirayatech/Chatify/assets/71933266/8e32115d-e902-46c4-acc2-cdadd4023cbf)
-
-#
-
-![Screenshot 2023-12-28 at 11 48 12](https://github.com/mirayatech/Chatify/assets/71933266/d4312f28-9208-4194-bece-805b642554bb)
-
-  
-#
-
-![Screenshot 2023-12-28 at 11 48 35](https://github.com/mirayatech/Chatify/assets/71933266/2b7c6e2f-e67b-494b-9274-eba25a677efc)
-
-#
-
-![Screenshot 2023-12-28 at 11 52 06](https://github.com/mirayatech/Chatify/assets/71933266/0a233090-04e4-4a53-9959-d63b52d9831b)
-
-#
-
-![Screenshot 2023-12-28 at 11 52 15](https://github.com/mirayatech/Chatify/assets/71933266/a0a7d6d8-b16e-45de-ad44-d66eafdc55df)
 
 
-#
 
-![Screenshot 2023-12-28 at 11 53 01](https://github.com/mirayatech/Chatify/assets/71933266/041b4d98-4160-4d05-ad6a-2b9e8513258a)
-
-#
-
-![Screenshot 2023-12-28 at 11 53 20](https://github.com/mirayatech/Chatify/assets/71933266/257803b9-b218-441e-a30a-ed915ebdeecd)
-
-
-#
-
-![Screenshot 2023-12-28 at 11 54 04](https://github.com/mirayatech/Chatify/assets/71933266/984fd811-9fbf-4e10-b7e7-b3f794124d46)
 
 
 </details>
