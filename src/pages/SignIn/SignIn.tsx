@@ -56,7 +56,7 @@ export default function SignIn() {
           </button>
 
           <a href="https://github.com/EUG96ene" target="_blank">
-            Built & Designed by Eugene
+            Built & Designed by Eugene Oduor
           </a>
         </ButtonWrapper>
       </Wrapper>
